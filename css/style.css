@@ -4,3 +4,6 @@ input[type="password"] {
 h1 {
   text-align: center;
 }
+P {
+  background-color: aqua;
+}
